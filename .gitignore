@@ -1,0 +1,7 @@
+node_modules
+.next
+out
+.env*
+.npm-cache
+.tmp
+dev-server*.log
